@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Знаток </title>
+		<link rel = "stylesheet" href = "styles.css" type = "text/css">
+		<link rel="shortcut icon" href="photos/icon.png" >
+		<script src = "http://yastatic.net/jquery/2.1.3/jquery.js"> </script>
+		<script src = "script.js"></script>
+		<meta http-equiv="Content-Type" content="text/html; charset=cp1251" />
+	</head>
+	<body>
+	
+	<div class = "facePage">
+	
+		<div class = "logo">
+			<img class = "serviceLogo" src = "photos/icon.png" />
+			<div class = "textLogo"> Знаток </div>
+		</div>
+		
+		
+		<div class = "applicationLink">
+			<div class = "subApplicationLink">
+			<div class = "inlineBlock appText"> Скачать в Google Play </div>
+				<div class = "inlineBlock"> <img class = "appIcon" src = "photos/google-play.png" alt = "Наше приложение на Google Play" /> </div>
+			</div>
+		</div>
+			
+				
+		
+		<header>
+			<h1 id = "mainTitle"> становитесь интереснее </h1>
+			<h2 id = "subMainTitle"> Всего за 5 минут в день </h2>
+		</header>
+		
+		<nav id = "mainPageNavigation">
+			<div class = "mainPageMenu"> 
+				<img class = "menuIcons" src = "photos/heart.png" alt = "Популярные курсы" />
+				<h3> популярное  </h3>
+			</div>
+			<div class = "mainPageMenu">  
+				<img class = "menuIcons" src = "photos/list.png" alt = "Категории" />
+				<h3> категории  </h3>
+			</div>
+			<div class = "mainPageMenu"> 
+				<img class = "menuIcons" src = "photos/phone.png" alt = "О сервисе" />
+				<h3> о сервисе  </h3>
+			</div>
+		</nav>
+	</div>
+	
+	</body>
+</html>
+		
